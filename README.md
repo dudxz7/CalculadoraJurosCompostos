@@ -1,0 +1,2 @@
+<h1 align="center">Calculadora de Juros Compostos💲</h1>
+<p>Este é um projeto de uma calculadora de juros compostos desenvolvida para fins educacionais ou de utilidade pessoal. Ele permite aos usuários inserir um valor inicial de investimento, a taxa de juros mensal e o período de tempo em meses, e em seguida, calcula o montante acumulado ao longo desse período, levando em conta os juros compostos. A interface simples e intuitiva torna fácil para os usuários obterem os resultados desejados rapidamente.</p>
